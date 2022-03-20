@@ -1,0 +1,27 @@
+Abstract
+
+Title:
+Long term air pollution risk factors for disease onset appear shared across systemic vasculitis and other autoimmune diseases: results from the UK Biobank  
+
+Authors: Enock Havyarimana1, Breda Cullen2, Matthew Rutherford1, Duncan Lee3 and Neil Basu1
+
+Affiliation: 1Institute of infection, immunity, and inflammation, 2Institute of health and wellbeing, 3School of mathematics and statistics, University of Glasgow
+
+Background/Objectives
+
+Recent studies have identified long-term air pollution exposures as a risk factor for several autoimmune diseases. It is, however, unknown if these effects are generic or disease specific. In this study, we assessed the cumulative impact of long-term air pollution exposures on systemic vasculitis onset and other inflammatory autoimmune diseases.  
+
+Methods
+
+We undertook a population case-control analysis of baseline and follow up data from UK Biobank (UKB). UK Biobank enrolled over 500,000 adults, aged 37 – 73 years, between 2006 and 2010. Data on individual’s previous health outcomes were retrieved and are continually linked from the UK national health services (NHS) digital. Participants who had or who developed a systemic vasculitis (ICD M30-31, n=1,206) were identified as cases and the remainder of the UKB population served as controls (n=487,942). Individuals with rheumatoid arthritis (ICD M05-06, n=6,451), systemic lupus erythematosus (ICD M32, n=401), ankylosing spondylitis (ICD M45, n=624) and psoriatic arthritis (ICD M07, n=812) were similarly analysed. Long-term air pollution data on particulate matter (PM10, PM2,5), nitrogen oxides (NO2, NOX), sulphur dioxide (SO2) and benzene (Bz) were linked for each participant’s place of residence (postcode) and period of 2001-2018. This data was sourced from the UK department for environment, food, and rural affairs (DEFRA). A multivariable logistic regression adjusting for age, sex, education, ethnicity, Townsend deprivation score, smoking and alcohol intake, time spent outdoors, and population density were used to assess the link between air pollution and inflammatory autoimmune disease risk. 
+
+Results
+
+A 1ug/m3 increase in annual mean sulphur dioxide was associated 6.4% (OR: 1.064 95% CI: 1.004% - 1.128) increased odds of systemic vasculitis. We observed similar associations in the comparator disease groups. When looking at the other inflammatory rheumatic diseases in UKB, we observed a 1ug/m3 increase in sulphur dioxide was associated with 3.7% (OR:1.037 95% CI: 1.011 – 1.064) and 9.7% (OR: 1.097 95% CI: 0.994% – 1.211%) increased odds of rheumatoid arthritis and systemic lupus erythematosus, respectively (Figure 1). No significant associations were observed for particulate matter (PM10, PM2,5), benzene and nitrogen oxides (NO2, NOX) in relation to systemic vasculitis and other inflammatory autoimmune diseases.
+Conclusions
+
+This is the first large scale study to evidence a link between long-term air pollution exposures and a risk for systemic vasculitis onset. Specifically, sulphur dioxide may be a risk factor for systemic vasculitis, but also other autoimmune diseases. Further work is needed to validate these results in cohorts with clinically well-defined disease phenotypes.
+
+
+Disclosures:
+None to declare
